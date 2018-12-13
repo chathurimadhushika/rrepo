@@ -1,6 +1,6 @@
 library(caret)
 library(randomForest)
-setwd("/Users/cc/Documents/PracticalMachineLearning/Pro1")
+#setwd("/Users/cc/Documents/PracticalMachineLearning/Pro1")
 
 URL1 <- "https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv"
 URL2 <- "https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv"
